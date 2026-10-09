@@ -2,11 +2,11 @@
   "users": [],
   "groups": [],
   "antilink": {
-    "120363428469850369@g.us": {
+    "0029VbD0lZX05MUixrBR9w2Z@newsletter": {
       "enabled": true,
       "action": "delete"
     },
-    "120363429450059028@g.us": {
+    "0029VbD0lZX05MUixrBR9w2Z@newsletter": {
       "enabled": true,
       "action": "delete"
     }
@@ -20,17 +20,17 @@
   "autoReaction": false,
   "customMessages": {},
   "antigrouptag": {
-    "120363428469850369@g.us": {
+    "0029VbD0lZX05MUixrBR9w2Z@newsletter": {
       "enabled": true,
       "action": "delete"
     },
-    "120363429450059028@g.us": {
+    "0029VbD0lZX05MUixrBR9w2Z@newsletter": {
       "enabled": true,
       "action": "delete"
     }
   },
   "groupProtection": {
-    "120363429450059028@g.us": {
+    "0029VbD0lZX05MUixrBR9w2Z@newsletter": {
       "antivideo": true,
       "antimedia": true
     }
