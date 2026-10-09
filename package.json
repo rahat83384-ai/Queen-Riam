@@ -1,5 +1,5 @@
 {
-  "name": "Queen Riam",
+  "name": "hacker MD rahat",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Hector Manuel",
+  "author": "𝙍𝘼𝙃𝘼𝙏 𝙞𝙨𝙡𝙖𝙢",
   "license": "ISC",
   "engines": {
     "node": "20.x",
